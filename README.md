@@ -17,8 +17,8 @@ A simple, modern blog CMS built with PHP OOP, MySQL, and Tailwind CSS.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/lemon-blog-cms.git
-   cd lemon-blog-cms
+   git clone https://github.com/nafiulaziz/blog_CMS
+   cd blog_CMS
    ```
 
 2. **Set up the database**
