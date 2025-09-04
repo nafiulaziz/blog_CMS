@@ -30,11 +30,6 @@ A simple, modern blog CMS built with PHP OOP, MySQL, and Tailwind CSS.
    - Ensure PHP 8.2.4 is installed
    - Point your web server to the project root
 
-4. **Access the application**
-   - Frontend: `http://your-domain/`
-   - Admin: `http://your-domain/admin/`
-   - Login credentials: username: `admin`, password: `123123`
-
 ## Project Structure
 
 - `/` - Frontend blog pages
