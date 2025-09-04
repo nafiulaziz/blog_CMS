@@ -42,7 +42,7 @@ A simple, modern blog CMS built with PHP OOP, MySQL, and Tailwind CSS.
 
 ## Tech Stack
 
-- **Backend**: PHP 7.4+ with OOP
+- **Backend**: PHP 8.2+ with OOP
 - **Database**: MySQL
 - **Frontend**: HTML5, Tailwind CSS, Vanilla JavaScript
 - **Architecture**: MVC pattern with namespaces
